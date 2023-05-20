@@ -6,6 +6,7 @@ tikubi
 manman
 unchi
 unko
+testisunchos
 
 # ローカルリポジトリ使う場合（ローカル環境でサーバ実行とかが必要な場合）
 
